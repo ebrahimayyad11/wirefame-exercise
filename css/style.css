@@ -27,26 +27,26 @@
 
 #mainBigImg{
     position: relative;
-    left: 22%;
+    left: 18%;
 }
 
 #mainImg1{
     position: relative;
-    left: 22%;
+    left: 18%;
 }
 
 #mainImg2{
     position: relative;
-    left: 23.5%;
+    left: 19.5%;
 }
 
 #mainImg3{
     position: relative;
-    left: 25%;
+    left: 21%;
 }
 
 #mainLastImg{
-    margin-left: 22%;
+    margin-left: 18%;
     
 }
 
@@ -64,7 +64,7 @@
 #divText{
     position: relative;
     margin-top: 2.5%;
-    margin-right: 19.75%;
+    margin-right: 17.75%;
     float: right;
 }
 
@@ -76,5 +76,5 @@
 }
 
 #button:hover{
-    transition: color 350ms;
+    transition: color 350ms ;
 }
